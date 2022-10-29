@@ -1,0 +1,12 @@
+.comment{
+    color: var(--text-color-1);
+}
+
+.comment a{
+    color: var(--text-color-1);
+}
+
+.username {
+    cursor: pointer;
+    color: var(--text-color-1) !important;
+}

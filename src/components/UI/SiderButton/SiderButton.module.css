@@ -1,0 +1,19 @@
+.btn {
+    width: 48px;
+    height: 48px;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 50%;
+    border: 1px solid var(--text-color-2);
+}
+
+.btn:hover {
+    border-radius: 10px;
+}
+
+
+._active {
+    border-radius: 10px;
+}

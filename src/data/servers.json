@@ -1,0 +1,30 @@
+[
+    {
+        "serverId": 1,
+        "title": "Server title 1",
+        "channelList": [1,2,3,4,5,6],
+        "members": [1,2,3,4,5,6,7],
+        "icon": "https://picsum.photos/50/50"
+    },
+    {
+        "serverId": 2,
+        "title": "Server title 2",
+        "channelList": [1,2,3,4,5,6],
+        "members": [1,2,3,4,5,6,7],
+        "icon": "https://picsum.photos/50/50"
+    },
+    {
+        "serverId": 3,
+        "title": "Server title 3",
+        "channelList": [1,2,3,4,5,6],
+        "members": [1,2,3,4,5,6,7],
+        "icon": "https://picsum.photos/50/50"
+    },
+    {
+        "serverId": 4,
+        "title": "Server title with very long name",
+        "channelList": [1,2,3,4,5,6],
+        "members": [1,2,3,4,5,6,7],
+        "icon": "https://picsum.photos/50/50"
+    }
+]

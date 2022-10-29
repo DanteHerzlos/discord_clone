@@ -1,0 +1,17 @@
+.btn{
+    color: var(--text-color-1);
+    margin: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.btn:hover {
+    font-size: 1.15rem;
+    color: var(--text-color-2)
+}
+
+.btn._active {
+    font-size: 1.15rem;
+    color: var(--text-color-2)
+}

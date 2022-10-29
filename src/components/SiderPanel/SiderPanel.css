@@ -1,0 +1,8 @@
+.sider {
+    background-color: var(--main-color-1) !important;
+    padding-top: 20px!important;
+    height: 100vh;  
+    z-index: 20;
+    display: block;
+    padding: 12px
+}

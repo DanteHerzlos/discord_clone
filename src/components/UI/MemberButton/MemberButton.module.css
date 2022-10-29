@@ -1,0 +1,26 @@
+.userIcon {
+    margin-right: 10px;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+
+.userName {
+    color: var(--text-color-1);
+    font-size: 1rem;
+}
+
+.btn {
+    border-radius: .5rem;
+    margin: .25rem 0;
+    display: flex;
+    align-items: center;
+    padding: 0 10px 0 18px;
+    height: 42px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: var(--main-color-3);
+}

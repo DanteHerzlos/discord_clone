@@ -1,0 +1,69 @@
+.header {
+    height: 48px; 
+    box-shadow: 0px 1px 4px -1px rgba(0,0,0,0.5);
+    z-index:10;
+    padding: 0;
+    display: flex;
+}
+
+.serverlHeader {
+    background-color: var(--main-color-2);
+    flex: none;
+    width: 240px;
+    padding: 6px 15px;
+    cursor: pointer;
+    transition: .5s;
+}
+.serverlHeader h2{
+    color: var(--text-color-1);
+}
+.serverlHeader:hover {
+    background-color: var(--main-color-3);
+}
+
+.sectionHeader {
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+    background-color: var(--main-color-3);
+    width: 100%;
+    display: flex;
+}
+
+.channelTitle{
+    color: var(--text-color-1);
+    margin: 0;
+    margin-left: 20px;
+}
+
+.toolbar {
+    display: flex;
+}
+
+.searchInput {
+    width: 200;
+}
+
+.menuBtn{
+    text-align: start !important;
+    width: 200px;
+}
+
+.menuBtn:hover {
+    color: var(--main-color-1) !important;
+    border-color: var(--main-color-1) !important;
+}
+
+.menuBtn:focus {
+    color: var(--main-color-1) !important;
+    border-color: var(--main-color-1) !important;
+}
+
+.menuExitBtn {
+    text-align: start !important;
+    width: 200px;
+}
+
+.popoverTitle {
+    font-size: 1.5rem;
+}
